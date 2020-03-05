@@ -6,12 +6,45 @@
   box-sizing: border-box;
 }
 
-/* Lezioni */
-
-#lezioni h2 {
-  text-align: center;
-}
+/* Utility */
 
 .img-w {
   width: 20%;
+}
+
+.img-w5 {
+  width: 50%;
+}
+.t-c {
+  text-align: center;
+}
+
+.margin-t5{
+  margin-top: 5%;
+}
+
+/* Lezioni */
+
+#lezioni h2 {
+  /* text-align: center; */
+}
+
+/* Steps */
+
+#steps {
+  margin-top: 5%;
+  background-color: #f9f9f9;
+}
+
+/* Why */
+
+#why {
+  margin-top: 5%;
+  background-color: #f9f9f9;
+}
+
+#why img {
+  background-color: #428bca;
+  border-radius: 100%;
+  padding: 20px;
 }
