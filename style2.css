@@ -1,4 +1,4 @@
-/* General */
+/*---------------General-----------------*/
 
 * {
   margin: 0;
@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-/* Utility */
+/*---------------Utility-----------------*/
 
 .img-w {
   width: 20%;
@@ -23,20 +23,20 @@
   margin-top: 5%;
 }
 
-/* Lezioni */
+/*-----------------Lezioni-------------*/
 
-#lezioni h2 {
-  /* text-align: center; */
+#lezioni h1 {
+  text-align: center;
 }
 
-/* Steps */
+/*------------------Steps--------------*/
 
 #steps {
   margin-top: 5%;
   background-color: #f9f9f9;
 }
 
-/* Why */
+/*-------------------Why---------------*/
 
 #why {
   margin-top: 5%;
