@@ -18,6 +18,13 @@
   text-align: center;
 }
 
+[class^="col-md-"] {
+  margin: 0 auto;
+  margin-left:auto;
+  margin-right:auto;
+  width: 100%;
+}
+
 /* -------------Responsive Col ------------ */
 
 @media screen and (min-width: 1200px) {
@@ -73,6 +80,7 @@
 }
 
 @media screen and (min-width: 769px) and (max-width: 1199px) {
+
 
   .col-md-1 {
     width: calc(100% / 12);
